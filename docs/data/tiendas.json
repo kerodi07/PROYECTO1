@@ -1,0 +1,477 @@
+[
+  {
+    "codigo": "103",
+    "tienda": "Mega Plaza",
+    "direccion": "Alfredo Mendiola Nro. 3698 - Centro Comercial Mega Plaza - lndependencia"
+  },
+  {
+    "codigo": "104",
+    "tienda": "Las Begonias",
+    "direccion": "Av.Las Begonias 785 - Urb. Jardin - San Isidro"
+  },
+  {
+    "codigo": "105",
+    "tienda": "La Marina",
+    "direccion": "Av. La Marina 2355 - Urb. Maranga - Primera etapa Anda 2 - San Miguel"
+  },
+  {
+    "codigo": "107",
+    "tienda": "Atocongo",
+    "direccion": "Av. Circunvalacion Nro. 1803 Tienda Ancla Nro. 2 San Juan de Miraflores"
+  },
+  {
+    "codigo": "110",
+    "tienda": "Huaylas",
+    "direccion": "Av Defensores del Morro No. 1350 - Chorrillos - Lima"
+  },
+  {
+    "codigo": "111",
+    "tienda": "Zorritos",
+    "direccion": "Av. Colonial No. 1291, 1293 - Jr. Zorritos No. 1504, 1548, 1552 - Lima"
+  },
+  {
+    "codigo": "112",
+    "tienda": "Quilca",
+    "direccion": "Av. Lima 4208 - Urb. Bocanegra - Provincia Constitucional del Callao"
+  },
+  {
+    "codigo": "113",
+    "tienda": "Saenz Pena",
+    "direccion": "Calle Castilla 496 - Provincia Constitucional del Callao"
+  },
+  {
+    "codigo": "114",
+    "tienda": "San Luis",
+    "direccion": "Av. San Luis 2399 Interior 1 - San Borja - Lima - Lima"
+  },
+  {
+    "codigo": "115",
+    "tienda": "El Agustino",
+    "direccion": "Av. Ancash No 2479 - El Agustino"
+  },
+  {
+    "codigo": "116",
+    "tienda": "Lima Centro",
+    "direccion": "Av. Tacna No. 665 - Cercado de Lima"
+  },
+  {
+    "codigo": "117",
+    "tienda": "Canta Callao",
+    "direccion": "Carretera Canta Callao No. 378- Calle Castilla 496 - Provincia Constitucional del Callao"
+  },
+  {
+    "codigo": "118",
+    "tienda": "Bellavista",
+    "direccion": "Av. Oscar R.Benavides No.3866 (SM 1) Bellavista - Callao"
+  },
+  {
+    "codigo": "119",
+    "tienda": "Pachacutec",
+    "direccion": "Av. Prolong. Pachacutec 6321 Tablada de Lurin Zona 4 Villa Maria del Triunfo"
+  },
+  {
+    "codigo": "120",
+    "tienda": "Puente Piedra",
+    "direccion": "Av. Puente Piedra Sur No. 322 - Alt. Km 30 Panamericana Norte - Puente Piedra"
+  },
+  {
+    "codigo": "121",
+    "tienda": "Tusilagos",
+    "direccion": "Av. Los Tusilagos Oeste 281 Urb. Los Jardines de San Juan S ctor 3 San Juan de Lurigancho"
+  },
+  {
+    "codigo": "122",
+    "tienda": "La Fontana",
+    "direccion": "Av. La Fontana 790 La Molina - Lima - Lima"
+  },
+  {
+    "codigo": "123",
+    "tienda": "Angamos",
+    "direccion": "Av. Angamos Este No. 1803 - Surquillo Lima - Lima"
+  },
+  {
+    "codigo": "124",
+    "tienda": "HT Jockey Plaza",
+    "direccion": "Av. Javier Prado Este 4010, Urb. Fundo Monterrico Chico, Santiago de Surco"
+  },
+  {
+    "codigo": "125",
+    "tienda": "Proceres",
+    "direccion": "Av. Los Proceres N° 1030, Santiago de Surco"
+  },
+  {
+    "codigo": "130",
+    "tienda": "HB Tungasuca",
+    "direccion": "Av. Chillon Trapiche Lote 1 Carabayllo - Lima - Lima"
+  },
+  {
+    "codigo": "132",
+    "tienda": "Izaguirre",
+    "direccion": "Av. Carlos Alberto Izaguirre 2838 SAN MARTIN DE PORRES LIMA LIMA"
+  },
+  {
+    "codigo": "133",
+    "tienda": "SB Ate  Kampu",
+    "direccion": "FND. La Estrella Av. NN-1 102 y ATE - LIMA - LIMA"
+  },
+  {
+    "codigo": "134",
+    "tienda": "SB SJL Proceres",
+    "direccion": "AV. PROCERES DE LA INDEPENDENCIA 5570 SJL"
+  },
+  {
+    "codigo": "136",
+    "tienda": "SB El Agustino",
+    "direccion": "Av. Nicolas de Ayllon 549 y Jose Riva Agüero Nro. 037 - Lima - Lima - Lima"
+  },
+  {
+    "codigo": "137",
+    "tienda": "SB Lurin",
+    "direccion": "FND.San Vicente N/S U.C. 10579- U.C.10714 SUBLOTE 17  SEC B"
+  },
+  {
+    "codigo": "139",
+    "tienda": "TT Punta Hermosa Mall",
+    "direccion": "Av. Canta Callao, Callao 07031, Callao, Callao"
+  },
+  {
+    "codigo": "142",
+    "tienda": "Campoy",
+    "direccion": "Av. Prolongaci6n Malecon Checa con San Juan de Lurigancho - Lima - Lima"
+  },
+  {
+    "codigo": "154",
+    "tienda": "HB Collique",
+    "direccion": "Sub Lote 4 Manzana A COMAS LIMA LIMA"
+  },
+  {
+    "codigo": "155",
+    "tienda": "Santa Anita",
+    "direccion": "Car. Carretera central Nro 135 Z.I.A - B(Sub Lote 1, Entre Mineria y Carr. Central) Santa Anita - Lima - Lima"
+  },
+  {
+    "codigo": "156",
+    "tienda": "Los Olivos",
+    "direccion": "Av. Alfredo Mendiola No. 5810 - Urb. lnfantas - Los Olivos - Lima"
+  },
+  {
+    "codigo": "157",
+    "tienda": "Av. Central",
+    "direccion": "Av. Canta Callao N° 3005 - S.M.P. (Mz. G lote 3 - Urb. Huertos del Naranjal)"
+  },
+  {
+    "codigo": "158",
+    "tienda": "Miraflores",
+    "direccion": "Av. 28 de Julio Nro. 1045, Miraflores (Centro comercial Paso 28 de Julio)"
+  },
+  {
+    "codigo": "159",
+    "tienda": "HB Puente Piedra",
+    "direccion": "Av. Leoncio Prado Nro 1916 - Puente Piedra - Lima"
+  },
+  {
+    "codigo": "170",
+    "tienda": "HB Huaycan",
+    "direccion": "Av. Los Incas 205 Mz. A Lt. 7 Ex. Av. Circunvalacion -Ate"
+  },
+  {
+    "codigo": "171",
+    "tienda": "San Hilarion",
+    "direccion": "Av San Hilarion Este 150-180 Urb. San Hilarion SJ Lurigancho (temporal)"
+  },
+  {
+    "codigo": "172",
+    "tienda": "HB Barrios Altos",
+    "direccion": "Jr.Huanuco 925 - Cercado de Lima"
+  },
+  {
+    "codigo": "173",
+    "tienda": "HB Guardia Civil",
+    "direccion": "Av. Guardia Civil Mza M Lote 13 -  La Campina - Chorriilos"
+  },
+  {
+    "codigo": "174",
+    "tienda": "HB Ventanilla Pachacutec",
+    "direccion": "Nuevo Pachactutec Mz. 6H -- Area Proyecto el Mirador (Sub Lite 01-B) - Ventanilla - Prov. Const. Del Callao"
+  },
+  {
+    "codigo": "175",
+    "tienda": "Lima Sur",
+    "direccion": "Av. Los Lirios Nro. 301 Urb. Entel Peru - San Juan de Miraflores"
+  },
+  {
+    "codigo": "176",
+    "tienda": "Calle 7",
+    "direccion": "Av. 7 Nro 510 - MZA-D Parc Semi Rust - El Sauce - Rinconada - La Molina"
+  },
+  {
+    "codigo": "177",
+    "tienda": "Comandante Espinar",
+    "direccion": "Av. Comandante Espinar 719, Miraflores"
+  },
+  {
+    "codigo": "178",
+    "tienda": "HB Duenas",
+    "direccion": "Av. Nicolas Dueñas 475, Cercado de Lima"
+  },
+  {
+    "codigo": "179",
+    "tienda": "MP  Villa el Salvador",
+    "direccion": "Cruce de la Av. Primero de Mayo - Villa el Salvador - Lima - Lima"
+  },
+  {
+    "codigo": "190",
+    "tienda": "Dominicos",
+    "direccion": "Mz.P Lote D1 Urb. Jorge Chavez, Seg. Estapa - Callao - Callao"
+  },
+  {
+    "codigo": "192",
+    "tienda": "HB Panamericana Urbana",
+    "direccion": "Av. Republica de Croacia N° 505 - 511- Puente Piedre (Referencia Grifo Visu)"
+  },
+  {
+    "codigo": "193",
+    "tienda": "Puruchuco",
+    "direccion": "Av. Nicolas Ayllon 4770 ATE - LIMA - LIMA"
+  },
+  {
+    "codigo": "194",
+    "tienda": "MP Comas",
+    "direccion": "Av. Alameda del Retablo N. 119 - Comas - Lima - Lima"
+  },
+  {
+    "codigo": "195",
+    "tienda": "HB Tantamayo",
+    "direccion": "Av. Tantamayo Mz.A Lt. 8 Urb Huertos del naranjal -San Martin de Porres  Lima Lima"
+  },
+  {
+    "codigo": "197",
+    "tienda": "SB Mareategui",
+    "direccion": "Av. Jose Carlos Mareategui 2524, Cercado de Lima 15812"
+  },
+  {
+    "codigo": "310",
+    "tienda": "Chiclayo 1",
+    "direccion": "Victor Raul Haya de la Torre 150 - 250 - Urb. San Eduardo - Tienda Ancla 1"
+  },
+  {
+    "codigo": "311",
+    "tienda": "Trujillo 1",
+    "direccion": "Av. Mansiche S/N - Caserio Cortijo - Trujillo"
+  },
+  {
+    "codigo": "313",
+    "tienda": "Ica",
+    "direccion": "Av. San Martin 763 - lca"
+  },
+  {
+    "codigo": "314",
+    "tienda": "HT Los Jardines",
+    "direccion": "Av. Panamericana Norte N° 1245, Trujillo, Trujillo, La Libertad"
+  },
+  {
+    "codigo": "315",
+    "tienda": "Piura",
+    "direccion": "Av. Andres Avelino Caceres No.147 Sector 1B Tda Ancla 2 - Urb. Miraflores - Castilla"
+  },
+  {
+    "codigo": "316",
+    "tienda": "Arequipa Porongoche",
+    "direccion": "Av. Porongoche N° 500, Distrito de Paucarpata"
+  },
+  {
+    "codigo": "317",
+    "tienda": "Arequipa Cayma",
+    "direccion": "Av. Ejercito 793 Arequipa Cayma"
+  },
+  {
+    "codigo": "318",
+    "tienda": "HB Chiclayo Belaunde",
+    "direccion": "Av. Fernando Belaunde Terry No. 685 - Urb La Primavera"
+  },
+  {
+    "codigo": "319",
+    "tienda": "HB Trujillo Pierola",
+    "direccion": "H.U LA Esperancita Trujillo - Trujillo - La Libertad"
+  },
+  {
+    "codigo": "332",
+    "tienda": "Chincha",
+    "direccion": "Esquina Av. Massaro con esquina Mariscal Castilla - Chincha Alta - Chincha - lca"
+  },
+  {
+    "codigo": "333",
+    "tienda": "HB Trujillo Union",
+    "direccion": "Av. Prolongacion Union N° 2,3,4,5 Urb. Sol el Chacarrero (Ref. Frente a Plaza Vea)"
+  },
+  {
+    "codigo": "334",
+    "tienda": "HB Huacho",
+    "direccion": "Panamericana Norte 1320 Santa Maria - Huaura Lima ( Ref. Pasando el Ovalo)"
+  },
+  {
+    "codigo": "335",
+    "tienda": "Chimbote",
+    "direccion": "Av. Panamericana Norte 505 MZ. B Lote. 1A·l-A2 Chimbote - Santa - Ancash"
+  },
+  {
+    "codigo": "336",
+    "tienda": "Chiclayo San Jose",
+    "direccion": "Av. Luis Gonzales N° 881- Chiclayo"
+  },
+  {
+    "codigo": "337",
+    "tienda": "Cañete",
+    "direccion": "Av. Mariscal Benavides N° 1000 - San Vicente de  Cañete - Cañete - Lima"
+  },
+  {
+    "codigo": "338",
+    "tienda": "Arequipa Parra",
+    "direccion": "Av. Parra Nro 220 - Arequipa - Arequipa"
+  },
+  {
+    "codigo": "339",
+    "tienda": "HB Chiclayo Leguia",
+    "direccion": "Av. Saenz Pena N° 1771- Chiclayo Cercado - Chiclayo"
+  },
+  {
+    "codigo": "350",
+    "tienda": "SuIlana",
+    "direccion": "Av. Panamericana N° 461 Urb. Santa Rosa - Sullana - Sullana - Piura"
+  },
+  {
+    "codigo": "352",
+    "tienda": "Pacasmayo",
+    "direccion": "Av. Gonzalo Ugaz Salcedo N° 23 - Pacasmayo"
+  },
+  {
+    "codigo": "356",
+    "tienda": "Chepen",
+    "direccion": "Carretera Panamericana 715 - 721 Chepen"
+  },
+  {
+    "codigo": "357",
+    "tienda": "Cusco La Cultura",
+    "direccion": "Prolongacion Av. De la cultura N. 2219 San Sebastian Cusco Cusco"
+  },
+  {
+    "codigo": "358",
+    "tienda": "Cajamarca",
+    "direccion": "Jiron Cinco Esquinas SN Cajamarca - Cajamarca"
+  },
+  {
+    "codigo": "359",
+    "tienda": "Huaral MP",
+    "direccion": "Av. Chancay Nro. 1248 - Km 8.5 Huaral - Huaral - Lima"
+  },
+  {
+    "codigo": "371",
+    "tienda": "Piura Maestro",
+    "direccion": "Av. Sanchez Cerro N° 3264 Ventiseis de Octubre Piura - Piura"
+  },
+  {
+    "codigo": "372",
+    "tienda": "Huacho",
+    "direccion": "Avenida Moore 213 - 215 - HUACHO - HUAURA - LIMA"
+  },
+  {
+    "codigo": "373",
+    "tienda": "HB Chincha",
+    "direccion": "Calle Leopoldo Carrillo S-N Chincha Alta Chincha Ica"
+  },
+  {
+    "codigo": "374",
+    "tienda": "HB Pisco",
+    "direccion": "Calle Comercio 700 - Pisco - Pisco - Ica"
+  },
+  {
+    "codigo": "375",
+    "tienda": "Huancayo",
+    "direccion": "Prolongacion San Carlos N.- 136 Huancayo - Huancayo Junin"
+  },
+  {
+    "codigo": "376",
+    "tienda": "HB Sullana Maestro",
+    "direccion": "Cal. Jorge Chavez 131 Piura Sullana - Sullana Piura"
+  },
+  {
+    "codigo": "377",
+    "tienda": "HB lca Panamericana",
+    "direccion": "Uro. San Joaquin Sub Lote 2A-C Frente A Carretera Panamericana Sur"
+  },
+  {
+    "codigo": "378",
+    "tienda": "HB Chulucanas",
+    "direccion": "Av. Ramon Castilla N. 1480 Sector I - Chulucanas Morropon - Piura"
+  },
+  {
+    "codigo": "379",
+    "tienda": "HB Ica La Tinguina",
+    "direccion": "Av. Rio de Janeiro S/N Cruce con Calle La tinguina ICA - ICA"
+  },
+  {
+    "codigo": "391",
+    "tienda": "HB Ferrenafe",
+    "direccion": "Av. Augusto B Leguia N° 110 - Pueblo Nuevo - Ferreñafe - Lamabayeque"
+  },
+  {
+    "codigo": "392",
+    "tienda": "HB Piura Grau",
+    "direccion": "Pro. Av. Grau 4830 4828 4832- Av Mario Balan 704 Nro. 4830 - Piura - Piura"
+  },
+  {
+    "codigo": "450",
+    "tienda": "HTO Pucallpa",
+    "direccion": "Av. Centenario 2086, Ancla 1 - Yarinacocha Coronel Portillo. Ucayali"
+  },
+  {
+    "codigo": "451",
+    "tienda": "HTO Huanuco",
+    "direccion": "Jr. 2 de Mayo No. 125 - Huanuco"
+  },
+  {
+    "codigo": "452",
+    "tienda": "HB Moyobamba",
+    "direccion": "Jr. Manuel del Aguila 837 - Moyobamba"
+  },
+  {
+    "codigo": "453",
+    "tienda": "HB Maestro Pucallpa",
+    "direccion": "Jr. Salvador Allende Nro 404 H.U - Calleria Coronel Portillo Ucayali"
+  },
+  {
+    "codigo": "470",
+    "tienda": "HB Iquitos La Marina",
+    "direccion": "Av. La Marina Nro 377 - Iquitos - Maynas - Lotero"
+  },
+  {
+    "codigo": "471",
+    "tienda": "HB Iquitos",
+    "direccion": "Av. Alfonso Ugarte 1359 - Iquitos - Manyas - Lotero"
+  },
+  {
+    "codigo": "472",
+    "tienda": "HB Tarapoto",
+    "direccion": "Av. Jimenez Pimentel No. 1043 - Tarapoto San Martin - San Martin"
+  },
+  {
+    "codigo": "473",
+    "tienda": "HB La Merced",
+    "direccion": "Av. Peru Nro. 438 (Av.Peru Nro. 438-448-470) Junin - Chanchamayo"
+  },
+  {
+    "codigo": "474",
+    "tienda": "TT Iquitos Mall",
+    "direccion": "Av. José Abelardo Quiñones N° 1050, Las Ninfas 2, San Juan Bautista - Iquitos Maynas Loreto"
+  },
+  {
+    "codigo": "551",
+    "tienda": "CD Ransa - Repsol",
+    "direccion": "Jr Gaspar Hernandez 700 LURIN LIMA LIMA"
+  },
+  {
+    "codigo": "959",
+    "tienda": "Picking Center Panama",
+    "direccion": "Av. Republica de Panama 4613, Surquillo Lima Lima"
+  }
+]

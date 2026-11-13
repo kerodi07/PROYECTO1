@@ -1,0 +1,525 @@
+
+/* ========================================
+   1. CONFIGURACIÓN GENERAL
+======================================== */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --verde-principal: #00843D;
+    --verde-oscuro: #006B32;
+    --verde-claro: #E8F5EC;
+
+    --blanco: #FFFFFF;
+    --fondo: #F4F6F5;
+
+    --texto: #26332B;
+    --texto-secundario: #68746D;
+
+    --borde: #DDE4DF;
+    --rojo: #D93636;
+
+    --sombra: 0 3px 12px rgba(0, 0, 0, 0.06);
+}
+
+[hidden] {
+    display: none !important;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: var(--fondo);
+    color: var(--texto);
+    line-height: 1.6;
+    min-height: 100vh;
+}
+
+/* ========================================
+   2. CONTENEDOR PRINCIPAL
+======================================== */
+
+.contenedor {
+    width: 92%;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+/* ========================================
+   3. ENCABEZADO
+======================================== */
+
+.encabezado {
+    background-color: var(--verde-principal);
+    color: var(--blanco);
+    padding: 25px 0;
+    box-shadow: var(--sombra);
+}
+
+.encabezado-contenido {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo h1 {
+    font-size: 27px;
+    font-weight: 700;
+    letter-spacing: 0.3px;
+}
+
+.logo p {
+    font-size: 14px;
+    opacity: 0.9;
+}
+
+/* ========================================
+   4. SECCIONES
+======================================== */
+
+main {
+    padding-top: 30px;
+    padding-bottom: 35px;
+}
+
+.seccion {
+    background-color: var(--blanco);
+    padding: 28px;
+    border-radius: 12px;
+    margin-bottom: 25px;
+    box-shadow: var(--sombra);
+}
+
+.titulo-seccion {
+    margin-bottom: 25px;
+}
+
+.titulo-seccion h2 {
+    font-size: 21px;
+    margin-bottom: 5px;
+    color: var(--verde-oscuro);
+}
+
+.titulo-seccion p {
+    color: var(--texto-secundario);
+    font-size: 14px;
+}
+
+/* ========================================
+   5. ZONA DE CARGA
+======================================== */
+
+.zona-carga {
+    border: 2px dashed #A9CDB5;
+    background-color: #FAFCFA;
+    border-radius: 12px;
+    padding: 35px 20px;
+    text-align: center;
+    transition: 0.2s ease;
+}
+
+.zona-carga:hover {
+    border-color: var(--verde-principal);
+    background-color: var(--verde-claro);
+}
+
+.icono-carga {
+    font-size: 45px;
+    margin-bottom: 10px;
+}
+
+.zona-carga h3 {
+    font-size: 18px;
+    margin-bottom: 8px;
+}
+
+.zona-carga p {
+    color: var(--texto-secundario);
+    font-size: 14px;
+    margin-bottom: 15px;
+}
+
+.zona-carga .formatos {
+    font-size: 12px;
+    margin-top: 15px;
+    margin-bottom: 0;
+}
+
+/* ========================================
+   6. VISTA PREVIA
+======================================== */
+
+.contenedor-preview {
+    margin-top: 25px;
+    padding: 20px;
+    background-color: #FAFCFA;
+    border: 1px solid var(--borde);
+    border-radius: 10px;
+    text-align: center;
+}
+
+.contenedor-preview h3 {
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.contenedor-preview img {
+    display: block;
+    max-width: 100%;
+    max-height: 400px;
+    width: auto;
+    height: auto;
+    margin: 0 auto 15px;
+    border-radius: 8px;
+    object-fit: contain;
+}
+
+/* ========================================
+   7. BOTONES
+======================================== */
+
+.boton {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 7px;
+
+    padding: 11px 20px;
+    border: none;
+    border-radius: 7px;
+
+    font-size: 14px;
+    font-weight: 600;
+
+    cursor: pointer;
+    transition: 0.2s ease;
+    text-decoration: none;
+}
+
+.boton-principal {
+    background-color: var(--verde-principal);
+    color: var(--blanco);
+}
+
+.boton-principal:hover:not(:disabled) {
+    background-color: var(--verde-oscuro);
+}
+
+.boton-secundario {
+    background-color: #E9EEEA;
+    color: var(--texto);
+}
+
+.boton-secundario:hover {
+    background-color: #DCE5DE;
+}
+
+.boton-peligro {
+    background-color: #FCEAEA;
+    color: var(--rojo);
+}
+
+.boton-peligro:hover {
+    background-color: #F8D6D6;
+}
+
+.boton:disabled {
+    background-color: #AAB5AD;
+    cursor: not-allowed;
+    opacity: 0.7;
+}
+
+/* ========================================
+   8. ACCIONES
+======================================== */
+
+.acciones {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-top: 22px;
+}
+
+.acciones-resultados {
+    padding-top: 20px;
+    border-top: 1px solid var(--borde);
+}
+
+/* ========================================
+   9. ESTADO DEL OCR
+======================================== */
+
+.estado {
+    margin-top: 18px;
+    padding: 12px;
+    background-color: var(--verde-claro);
+    color: var(--verde-oscuro);
+    border-radius: 7px;
+    font-size: 13px;
+    text-align: center;
+}
+
+.progreso-container {
+    margin-top: 15px;
+}
+
+.barra-progreso {
+    height: 9px;
+    background-color: #E4EAE5;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.barra-progreso-valor {
+    height: 100%;
+    width: 0%;
+    background-color: var(--verde-principal);
+    border-radius: 20px;
+    transition: width 0.2s ease;
+}
+
+#texto-progreso {
+    margin-top: 7px;
+    color: var(--texto-secundario);
+    font-size: 12px;
+    text-align: center;
+}
+
+/* ========================================
+   10. GRUPOS DE DATOS
+======================================== */
+
+.grupo-datos {
+    margin-bottom: 30px;
+}
+
+.grupo-datos h3 {
+    font-size: 16px;
+    color: var(--verde-oscuro);
+    padding-bottom: 10px;
+    margin-bottom: 18px;
+    border-bottom: 1px solid var(--borde);
+}
+
+.rejilla-datos {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 20px;
+}
+
+/* ========================================
+   11. CAMPOS DE INFORMACIÓN
+======================================== */
+
+.campo {
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+    min-width: 0;
+}
+
+.campo label {
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--texto);
+}
+
+.campo-accion {
+    display: flex;
+    gap: 7px;
+    min-width: 0;
+}
+
+.campo input {
+    width: 100%;
+    min-width: 0;
+    padding: 11px 12px;
+
+    border: 1px solid var(--borde);
+    border-radius: 7px;
+
+    background-color: #FAFCFA;
+    color: var(--texto);
+
+    font-size: 14px;
+    outline: none;
+    transition: 0.2s ease;
+}
+
+.campo input:focus {
+    border-color: var(--verde-principal);
+    box-shadow: 0 0 0 3px rgba(0, 132, 61, 0.1);
+}
+
+.campo input::placeholder {
+    color: #A3ADA6;
+}
+
+.boton-copiar {
+    flex-shrink: 0;
+    padding: 0 12px;
+
+    background-color: var(--verde-claro);
+    color: var(--verde-oscuro);
+
+    border: 1px solid #C8E3D0;
+    border-radius: 7px;
+
+    font-size: 12px;
+    font-weight: 600;
+
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+
+.boton-copiar:hover {
+    background-color: #D4EBDD;
+}
+
+/* ========================================
+   12. PIE DE PÁGINA
+======================================== */
+
+.pie {
+    background-color: #E9EEEA;
+    text-align: center;
+    padding: 22px 15px;
+    color: var(--texto-secundario);
+    font-size: 12px;
+}
+
+.pie p:first-child {
+    font-weight: 700;
+    color: var(--verde-oscuro);
+    margin-bottom: 4px;
+}
+
+/* ========================================
+   13. DISEÑO RESPONSIVE - TABLETS
+======================================== */
+
+@media (max-width: 768px) {
+
+    .contenedor {
+        width: 94%;
+    }
+
+    .encabezado {
+        padding: 20px 0;
+    }
+
+    .logo h1 {
+        font-size: 23px;
+    }
+
+    .seccion {
+        padding: 22px;
+    }
+
+    .rejilla-datos {
+        gap: 16px;
+    }
+
+}
+
+/* ========================================
+   14. DISEÑO RESPONSIVE - CELULARES
+======================================== */
+
+@media (max-width: 520px) {
+
+    .contenedor {
+        width: 94%;
+    }
+
+    .encabezado {
+        padding: 18px 0;
+    }
+
+    .logo h1 {
+        font-size: 21px;
+    }
+
+    .logo p {
+        font-size: 12px;
+    }
+
+    main {
+        padding-top: 18px;
+    }
+
+    .seccion {
+        padding: 17px;
+        border-radius: 9px;
+    }
+
+    .titulo-seccion h2 {
+        font-size: 19px;
+    }
+
+    .titulo-seccion p {
+        font-size: 13px;
+    }
+
+    .zona-carga {
+        padding: 25px 12px;
+    }
+
+    .zona-carga h3 {
+        font-size: 16px;
+    }
+
+    .zona-carga p {
+        font-size: 13px;
+    }
+
+    .rejilla-datos {
+        grid-template-columns: 1fr;
+        gap: 17px;
+    }
+
+    .campo-accion {
+        gap: 6px;
+    }
+
+    .campo input {
+        font-size: 14px;
+        padding: 11px 9px;
+    }
+
+    .boton-copiar {
+        padding: 0 11px;
+    }
+
+    .acciones {
+        flex-direction: column;
+    }
+
+    .acciones .boton {
+        width: 100%;
+    }
+
+    .contenedor-preview {
+        padding: 14px;
+    }
+
+    .pie {
+        font-size: 11px;
+    }
+
+}
+
+/* ========================================
+   15. ACCESIBILIDAD
+======================================== */
+
+button:focus-visible,
+label:focus-visible,
+input:focus-visible {
+    outline: 3px solid rgba(0, 132, 61, 0.35);
+    outline-offset: 2px;
+}

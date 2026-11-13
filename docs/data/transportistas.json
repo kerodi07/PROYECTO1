@@ -1,0 +1,84 @@
+
+[
+    {
+        "nombre": "CARLEY",
+        "variantes": ["CARLEY", "CAR S.A.C.", "CAR SAC"]
+    },
+    {
+        "nombre": "CANTURIN",
+        "variantes": ["CANTURIN"]
+    },
+    {
+        "nombre": "EXACTA",
+        "variantes": ["EXACTA"]
+    },
+    {
+        "nombre": "MIGAMA",
+        "variantes": ["MIGAMA"]
+    },
+    {
+        "nombre": "QUINASH",
+        "variantes": ["QUINASH"]
+    },
+    {
+        "nombre": "MAVITHIAR",
+        "variantes": ["MAVITHIAR"]
+    },
+    {
+        "nombre": "SAFETY",
+        "variantes": ["SAFETY"]
+    },
+    {
+        "nombre": "TRAMA",
+        "variantes": ["TRAMA"]
+    },
+    {
+        "nombre": "MEJIA",
+        "variantes": ["MEJIA"]
+    },
+    {
+        "nombre": "URTECHO",
+        "variantes": ["URTECHO"]
+    },
+    {
+        "nombre": "MARSISA",
+        "variantes": ["MARSISA"]
+    },
+    {
+        "nombre": "G & M",
+        "variantes": ["G & M", "G Y M"]
+    },
+    {
+        "nombre": "A & S",
+        "variantes": ["A & S", "A Y S"]
+    },
+    {
+        "nombre": "RENTING",
+        "variantes": ["RENTING"]
+    },
+    {
+        "nombre": "YARUSA",
+        "variantes": ["YARUSA"]
+    },
+    {
+        "nombre": "ALMONACID",
+        "variantes": ["ALMONACID"]
+    },
+    {
+        "nombre": "RIO COSTA",
+        "variantes": ["RIO COSTA"]
+    },
+    {
+        "nombre": "SALUD AMAZONICA",
+        "variantes": ["SALUD AMAZONICA"]
+    },
+    {
+        "nombre": "SOBRERUEDAS EXPRESS",
+        "variantes": ["SOBRERUEDAS EXPRESS"]
+    },
+    {
+        "nombre": "SHAMMAH",
+        "variantes": ["SHAMMAH"]
+    }
+]
+
